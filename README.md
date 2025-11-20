@@ -1,1 +1,0 @@
-# Intel-Image-Classification-ResNet18
